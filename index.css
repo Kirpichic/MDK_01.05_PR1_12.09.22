@@ -1,0 +1,58 @@
+.fon,.ast,.p1,.p2,.p3,.sh,.ufo,.sm{
+    position: relative
+}
+
+.fon{
+    min-height: 600px;
+    min-width: 400px;
+    z-index: 1;
+}
+.ast{
+    min-height: 100px;
+    min-width: 100px;
+    top: -243px;
+    left: 317px;
+    z-index: 2;
+}
+.p1{
+    min-height: 150px;
+    min-width: 150px;
+    top: -340px;
+    left: 130px;
+    z-index: 3;
+}
+.p2{
+    min-height: 200px;
+    min-width: 200px;
+    top: -390px;
+    left: 50px;
+    z-index: 4;
+}
+.sh{
+    min-height: 50px;
+    min-width: 50px;
+    top: -560px;
+    left: 100px;
+    z-index: 5;
+}
+.p3{
+    min-height: 300px;
+    min-width: 300px;
+    top: -417px;
+    left: 100px;
+    z-index: 6;
+}
+.ufo{
+    min-height: 80px;
+    min-width: 80px;
+    top: -510px;
+    left: 70px;
+    z-index: 7;
+}
+.sm{
+    min-height: 100px;
+    min-width: 100px;
+    top: -509.5px;
+    left: 370px;
+    z-index: 7;
+}
